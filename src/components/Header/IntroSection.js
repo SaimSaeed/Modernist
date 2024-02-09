@@ -13,7 +13,7 @@ function IntroSection({ left, right }) {
           <img src={left} alt="" className='w-[100px]' />
         </div>
         <div className='px-8  '>
-          <h1 className=' text-xl text-white py-3 text-center md:text-center lg:text-left lg:text-5xl xl:text-left'>Cursus penati<br /> saccum nulla.</h1>
+          <h1 className=' text-xl text-white py-3 text-center font-bold md:text-center lg:text-left lg:text-5xl xl:text-left'>Cursus penati<br /> saccum nulla.</h1>
           <p className=' text-xs text-center text-slate py-6 lg:text-base lg:text-justify  '>Nullamlacus dui ipsum conseque loborttis non euisque<br /> morbi penas dapibulum orna. Urnaultrices quis <br />curabitur phasellentesque congue
             magnis vestibulum<br /> quismodo nulla et fouglat adipiscinia pellentum leo.</p>
           <div className='flex justify-center items-center md:justify-center lg:float-left'>

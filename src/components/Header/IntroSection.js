@@ -23,7 +23,7 @@ function IntroSection({ left, right }) {
         </div>
         <div className='px-8 '>
 
-          <div className=' bg-darkGrey rounded-full  border-[1rem] w-[260px] h-[260px] border-lightGrey flex justify-center items-center md:w-[380px] md:h-[380px] lg:w-[380px] lg:h-[380px] xl:w-[400px] xl:h-[400px]'>
+          <div className=' bg-darkGrey rounded-full  border-[1rem] w-[240px] h-[240px] border-lightGrey flex justify-center items-center md:w-[380px] md:h-[380px] lg:w-[380px] lg:h-[380px] xl:w-[400px] xl:h-[400px]'>
             <p className='text-white'>380x380px</p>
           </div>
 

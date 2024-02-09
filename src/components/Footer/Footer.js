@@ -68,8 +68,8 @@ function Footer() {
                         <div className='bg-black w-full h-[0.2vh]'></div>
                         <div className='w-full bg-customGrey'>
                                 <div className='flex justify-between items-center w-[80vw] h-[10vh]  mx-auto text-lightGrey'>
-                                        <p className='text-xs md:text-sm lg:text-base'>Copyright@2013 Domain Name - All Rights Reserved</p>
-                                        <p className='text-xs md:text-sm lg:text-base'>Template By OG Templates</p>
+                                        <p className='text-xs w-auto mx-auto md:text-sm md:w-1/2 lg:text-base'>Copyright@2013 Domain Name - All Rights Reserved</p>
+                                        <p className='text-xs text-right hidden md:text-sm md:block md:w-1/2  lg:text-base'>Template By OG Templates</p>
                                 </div>
                         </div>
 
